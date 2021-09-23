@@ -1,0 +1,31 @@
+#speed{
+    float:left;
+}
+#volume{
+    float:right;
+}
+#HP{
+    bottom:0;
+    background-color: aqua;
+    color:orange;
+    font-size: xx-large;
+    font-family: "Dancing Script";
+    margin-top: 240px;
+    font-weight: bold;
+}
+#header{
+    font-size: xx-large;
+    color: slateblue;
+
+}
+#NOTE{
+    white-space: pre-line;
+    font-size:x-large;
+
+}
+canvas{
+    border-radius: 10px;
+    border: 10px;
+    box-shadow: 5px 5px 18px blue ;
+    margin-top:100px ;
+}
